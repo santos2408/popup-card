@@ -1,12 +1,10 @@
 # Popup Card
 
-![Popup Card](./img/popup-image.jpg)
+<!-- ![Popup Card](./img/popup-image.jpg) -->
 
 ### Links
 
 - Veja o resultado: [Add solution URL here](https://your-solution-url.com)
-
-## My processo
 
 ### Construído com
 
