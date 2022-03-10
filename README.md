@@ -1,6 +1,6 @@
 # Popup Card
 
-<!-- ![Popup Card](./img/popup-image.jpg) -->
+![Popup Card](./img/popup-image.jpg)
 
 ### Links
 
