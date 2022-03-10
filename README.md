@@ -4,12 +4,11 @@
 
 ### Links
 
-- Veja o resultado: [Add solution URL here](https://your-solution-url.com)
+- Veja o resultado: [Link](https://santos2408.github.io/popup-card/)
 
 ### Construído com
 
 - Marcação semântica de HTML5
-- Propriedades CSS
 - CSS Grid
 - Mobile-first workflow
 
